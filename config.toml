@@ -6,7 +6,7 @@ pluralizelisttitles = false
 
 [params]
     brand = "Tyler Schmidtke"                    # name of your site - appears in the sidebar
-    brand_image = "/me_recording.jpg"    # path to the image shown in the sidebar
+    brand_image = "/me_recording.webp"
     description = "Software engineer, musician, and audio geek. Sans Soleil."
     dark_mode = true
 
